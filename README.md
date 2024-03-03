@@ -57,3 +57,5 @@ As seguintes imagens foram imputadas para teste e análise do retorno:
 - É de enorme importância ter uma luz de qualidade nas imagens que serão utilizadas;
 
 - O retorno segue fielmente à imagem. Cada item em sua respectiva linha, independente de uma palavra ser formada ou não;
+
+- Para juntar essas informações e montar um texto completo, na maioria dos casos, precisará haver intervenção humana.
