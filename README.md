@@ -38,7 +38,7 @@ Quando passar o cursor (<i>hover</i>) sobre qualquer palavra, ela será destacad
 
 ## Inputs e Outputs
 
-Imagens imputadas para teste e verificação do retorno. Foram elas:
+As seguintes imagens foram imputadas para teste e análise do retorno:
 
 ### Capa de Livro
 
@@ -51,3 +51,9 @@ Imagens imputadas para teste e verificação do retorno. Foram elas:
 ### Rótulo de lata
 
 ![Rótulo de Lata](/output/rotulo-cerveja.png)
+
+## Insights
+
+- É de enorme importância ter uma luz de qualidade nas imagens que serão utilizadas;
+
+- O retorno segue fielmente à imagem. Cada item em sua respectiva linha, independente de uma palavra ser formada ou não;
