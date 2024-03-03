@@ -1,7 +1,7 @@
 # lab02-ai900
 ## Introdução
 
-Resolução do laboratório 03 (<i>image-analysis</i>) da série mslearn-ai-fundamentals, da Microsoft. Para mais informações, acesse o [repositório oficial](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/tree/main/Instructions/Labs).
+Resolução do laboratório 03 (OCR) da série mslearn-ai-fundamentals, da Microsoft. Para mais informações, acesse o [repositório oficial](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/tree/main/Instructions/Labs).
 
 A proposta é trazer imagens aleatórias que contenham texto e verificar a precisão da extração feita pelo Vision Studio, outra ferramenta do Microsoft Azure.
 
@@ -32,11 +32,22 @@ Ao selecionar uma imagem de exemplo, você será retornado (direita) com todo o 
 
 ![Resultado da amostra](/assets/images/image-text-extract.png)
 
-Ao dar um <i>hover</i> com o cursor sobre qualquer palavra, ela será destacada.
+Quando passar o cursor (<i>hover</i>) sobre qualquer palavra, ela será destacada - tanto na origem, quanto no retorno.
 
 ![Resultado da amostra](/assets/images/image-text-extract-hover.png)
 
 ## Inputs e Outputs
 
-Imagens aleatórias foram imputadas para teste e verificação do retorno. Foram elas:
+Imagens imputadas para teste e verificação do retorno. Foram elas:
 
+### Capa de Livro
+
+![Capa de Livro](/output/capa-livro.png)
+
+### Página de Livro
+
+![Página de Livro](/output/pagina.png)
+
+### Rótulo de lata
+
+![Rótulo de Lata](/output/rotulo-cerveja.png)
