@@ -1,7 +1,7 @@
 # lab02-ai900
 ## Introdução
 
-Resolução do laboratório 03 (OCR) da série mslearn-ai-fundamentals, da Microsoft. Para mais informações, acesse o [repositório oficial](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/tree/main/Instructions/Labs).
+Resolução do laboratório 03 (<i>Optical Character Recognition</i> (OCR)) da série mslearn-ai-fundamentals, da Microsoft. Para mais informações, acesse o [repositório oficial](https://github.com/MicrosoftLearning/mslearn-ai-fundamentals/tree/main/Instructions/Labs).
 
 A proposta é trazer imagens aleatórias que contenham texto e verificar a precisão da extração feita pelo Vision Studio, outra ferramenta do Microsoft Azure.
 
